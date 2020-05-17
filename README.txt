@@ -34,7 +34,7 @@ the database.
 As of December 2016, the Google Geocoding APIs changed dramatically.
 They moved some functionality that we use from the Geocoding API
 into the Places API.  Also all the Google Geo-related APIs require an
-API key. To complete this assignment without a Google account,
+API key. To complete this assignment without a Google account, 
 without an API key, or from a country that blocks
 access to Google, you can use a subset of that data which is
 available at:
