@@ -6,7 +6,6 @@ to clean up some user-entered geographic locations of
 university names and then placing the data on a Google
 Map.
 
-
 You should install the SQLite browser to view and modify
 the databases from:
 http://sqlitebrowser.org/
